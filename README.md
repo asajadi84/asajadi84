@@ -19,3 +19,4 @@ I am a self-taught programmer and game developer starting programming back in 20
 
 ## Stats
 ![Ali Sajadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=asajadi84&show_icons=true)
+![Ali Sajadi's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=asajadi84&include_all_commits=true&count_private=true&layout=compact)
